@@ -1,0 +1,49 @@
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x055bebc199decab2b263e827c6d36f15f0c3888b7cc47d69183a608c0b250e52
+   > Blocks: 10           Seconds: 4
+   > contract address:    0x5E82Fb78011E4cBf5B92122527dE01DA28259749
+   > block number:        230217128
+   > block timestamp:     1689595335
+   > account:             0x146A1f6dA94C97Cc56Dc848fAB6CFbfA89fF3DBd
+   > balance:             879.485240147610326
+   > gas used:            21213200 (0x143b010)
+   > gas price:           120.147132556 gwei
+   > value sent:          0 ETH
+   > total cost:          2.5487051523369392 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     2.5487051523369392 ETH
+
+
+2_deploy.js
+===========
+
+   Deploying 'SpotNFT'
+   -------------------
+   > transaction hash:    0xea2a18fbef42f46b25c64633f0406814dc63c8aea3f50d3db9e702bda65814aa
+   > Blocks: 10           Seconds: 4
+   > contract address:    0x235BA8696D15d1F48c9b85871b156eDe1145360d
+   > block number:        230217147
+   > block timestamp:     1689595342
+   > account:             0x146A1f6dA94C97Cc56Dc848fAB6CFbfA89fF3DBd
+   > balance:             867.88753361937819612
+   > gas used:            96514920 (0x5c0b368)
+   > gas price:           120.152460689 gwei
+   > value sent:          0 ETH
+   > total cost:          11.59650513120197988 ETH
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     11.59650513120197988 ETH
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          14.14521028353891908 ETH
